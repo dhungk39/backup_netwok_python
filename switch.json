@@ -1,0 +1,52 @@
+{ "switch_list" : [
+    {
+        "hostname"  :"",
+        "ip"        :"",
+        "username"  :"",
+        "port"      :"",
+        "password"  :"",
+        "secret"    :""
+    },
+    {
+        "hostname"  :"",
+        "ip"        :"",
+        "username"  :"",
+        "port"      :"",
+        "password"  :"",
+        "secret"    :""
+    },
+    {
+        "hostname"  :"",
+        "ip"        :"",
+        "username"  :"",
+        "port"      :"",
+        "password"  :"",
+        "secret"    :""
+    },
+    {
+        "hostname"  :"",
+        "ip"        :"",
+        "username"  :"",
+        "port"      :"",
+        "password"  :"",
+        "secret"    :""
+        
+    },
+    {
+        "hostname"  :"",
+        "ip"        :"",
+        "username"  :"",
+        "port"      :"",
+        "password"  :"",
+        "secret"    :""
+    },
+    {
+        "hostname"  :"",
+        "ip"        :"",
+        "username"  :"",
+        "port"      :"",
+        "password"  :"",
+        "secret"    :""
+    }
+]
+}
